@@ -34,3 +34,9 @@ Main Assignment1:(22-02-2024):
    Input: `8`
    Output: `[0, 1, 1, 2, 3, 5, 8, 13]`
 
+6. **Calculate Even or Odd:**
+   Write a function to find even or odd.
+
+   Example:
+   Input: `8`
+   Output: `Even`
