@@ -34,3 +34,24 @@ Main Assignment1:(22-02-2024):
    Input: `8`
    Output: `[0, 1, 1, 2, 3, 5, 8, 13]`
 
+6. **Calculate Even or Odd:**
+   Write a function to find even or odd.
+
+   Example:
+   Input: `8`
+   Output: `Even`
+
+6. **Find Out The Duplicate Elements in a array:**
+   Findout The Duplicate Elements in a array
+
+   Example:
+   Input: [2,4,7,8,2]
+   Output: 2
+
+7. **Find out Squares of all the numbers in the array **
+   Findout The squares of all the numbers in the array
+
+   Example:
+   Input: [2,4,7,8,2]
+   Output: [4,16,49,64,4]
+
