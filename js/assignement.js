@@ -62,4 +62,41 @@
 
 //  fibonacci series
 
+// function fiba(n) {
+//     fq = [0, 1]
+//     if (n <= 1) { console.log(fq[0]) }
+//     if (n == 2) { console.log(...fq) }
+//     if (n > 2) {
+//         for (let i = 1; i <= (n - 2); i++) {
+//             fq.push(fq[fq.length - 1] + fq[fq.length - 2])
+//         }
+//         console.log(...fq)
+//     }
+
+// }
+
+// fiba(8)
+
+
+// even or odd
+
+// let number = 8;
+
+// let remainder = (number % 2);
+
+// if (remainder == 0) {
+//     console.log('${ number } is even');
+// } else {
+//     console.log('${ number } is odd')
+// }
+
+
+// square root of numbers
+
+// let a = ['2, 4, 7, 8, 2'];
+
+// let b = math.sqrt(a);
+
+// console.log(b);
+
 
