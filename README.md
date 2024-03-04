@@ -55,3 +55,5 @@ Main Assignment1:(22-02-2024):
    Input: [2,4,7,8,2]
    Output: [4,16,49,64,4]
 
+8.const person = '{"name":"John Doe","age":30,"address":{"city":"New York","zip":"10001"}}';
+ i want you to print the zip code in the person 
