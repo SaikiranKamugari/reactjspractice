@@ -57,3 +57,8 @@ Main Assignment1:(22-02-2024):
 
 8.const person = '{"name":"John Doe","age":30,"address":{"city":"New York","zip":"10001"}}';
  i want you to print the zip code in the person 
+
+
+React:
+1.Create a component for increment and decrement 
+2.Create a component for hello world
