@@ -66,3 +66,6 @@ React:
 React:
 1.Create a component for increment and decrement 
 2.Create a component for hello world
+3.Create a if-else for the incriement and decrement 
+
+1)Create a button which should be disabled after clicking and need to be enabled after a certain amount of time 
